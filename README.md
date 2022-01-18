@@ -1,7 +1,6 @@
  
 
 
-> Open this page at [https://mj-linane.github.io/functionsreduceredundancy/](https://mj-linane.github.io/functionsreduceredundancy/)
 
 ## Use as Extension
 
